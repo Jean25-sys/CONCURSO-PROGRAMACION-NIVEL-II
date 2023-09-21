@@ -12,10 +12,9 @@ def tribonacci(signature, n):
     
     return result
 
-# Valores de entrada proporcionados directamente (no solicita entrada al usuario)
-firma = [1, 1, 1]  # Cambia estos valores según tus necesidades
-n = 10  # Cambia el número de elementos deseados según tus necesidades
 
-# Calcular y mostrar la secuencia de Tribonacci
+firma = [1, 1, 1]
+n = 10  
+
 secuencia = tribonacci(firma, n)
 print("Secuencia de Tribonacci:", secuencia)

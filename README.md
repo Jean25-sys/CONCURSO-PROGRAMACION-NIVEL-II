@@ -6,3 +6,5 @@ El concurso fue un desafío intenso y emocionante, donde pusimos a prueba nuestr
 
 ## 🏅 Nuestro Logro
 ¡Obtuvimos el 2do puesto! 🥈 Este logro es el resultado de horas de preparación, dedicación y trabajo en equipo. Estamos muy orgullosos de nuestro desempeño y agradecidos por la experiencia.
+
+![certificado](https://github.com/Jean25-sys/CONCURSO-PROGRAMACION-NIVEL-II/blob/main/certificado.jpg)
